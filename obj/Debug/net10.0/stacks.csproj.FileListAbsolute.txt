@@ -1,0 +1,15 @@
+/workspaces/stacks/bin/Debug/net10.0/stacks
+/workspaces/stacks/bin/Debug/net10.0/stacks.deps.json
+/workspaces/stacks/bin/Debug/net10.0/stacks.runtimeconfig.json
+/workspaces/stacks/bin/Debug/net10.0/stacks.dll
+/workspaces/stacks/bin/Debug/net10.0/stacks.pdb
+/workspaces/stacks/obj/Debug/net10.0/stacks.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/stacks/obj/Debug/net10.0/stacks.AssemblyInfoInputs.cache
+/workspaces/stacks/obj/Debug/net10.0/stacks.AssemblyInfo.cs
+/workspaces/stacks/obj/Debug/net10.0/stacks.csproj.CoreCompileInputs.cache
+/workspaces/stacks/obj/Debug/net10.0/stacks.sourcelink.json
+/workspaces/stacks/obj/Debug/net10.0/stacks.dll
+/workspaces/stacks/obj/Debug/net10.0/refint/stacks.dll
+/workspaces/stacks/obj/Debug/net10.0/stacks.pdb
+/workspaces/stacks/obj/Debug/net10.0/stacks.genruntimeconfig.cache
+/workspaces/stacks/obj/Debug/net10.0/ref/stacks.dll
